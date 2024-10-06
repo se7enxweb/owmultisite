@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <software>
     <metadata>
-        <name>OWMultisite</name>
-        <version>1.3</version>
-        <copyright>Copyright (C) 2012 OPEN WIDE</copyright>
+        <name>OW Multi Site</name>
+        <version>1.4</version>
+        <copyright>Copyright (C) 1999 - 2024 7x and 2012 OPEN WIDE</copyright>
         <license>GNU General Public License v3.0</license>
-        <info_url>https://github.com/Open-Wide/OWMultiSite/</info_url>
+        <info_url>https://github.com/se7enxweb/owmultisite</info_url>
     </metadata>
 </software>

@@ -1,0 +1,29 @@
+{
+    "name": "se7enxweb/owmultisite",
+    "description": "eZ Publish extension which provides template operators to use to build flexible multi website content handling. Time Tested. Great for all ecommerce websites. Great for smart developers!",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "ezpublish-compatible", "content", "extension", "template", "operators" ],
+    "homepage": "https://github.com/se7enxweb/owmultisite",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name" : "7x",
+            "homepage": "https://se7enx.com",
+            "email": "info@se7enx.com",
+            "role": "Developer"
+        },
+	{
+            "name" : "Open Wide",
+            "homepage": "https://openwide.fr",
+            "role": "Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "se7enxweb/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "owmultisite"
+    }
+}
